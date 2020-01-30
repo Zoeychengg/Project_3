@@ -36,7 +36,7 @@ img
 
 ## Executive Summary
 On Average, most people spent about 7 hours online, if you are one of them chances are you’ve heard of Reddit. The site bills itself as the “front page of the internet,” and ranked at 18th for most-popular sites worldwide. Reddit is broken up into more than a million communities known as “subreddits,” each of which covers a different topic. They are subsidiary threads or categories within the Reddit website.
-![Average number of hours spend online for different countries](./img/Time_Internet_2019.png)
+![](./img/Time_Internet_2019.png)
 
 Subreddits allow users to focus on a specific interest or topic in posting content that gets voted up or down by relevance and user preference. As mentioned earlier, there are more than a million Subreddits which means there are many Subreddits with similar contents, users especially those who are new to Reddit gets confused as to which Subreddit they can post to.
 
